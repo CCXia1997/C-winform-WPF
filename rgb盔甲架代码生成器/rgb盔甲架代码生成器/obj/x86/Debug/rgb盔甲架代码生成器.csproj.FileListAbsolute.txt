@@ -1,0 +1,8 @@
+E:\c#\rgb盔甲架代码生成器\rgb盔甲架代码生成器\bin\Debug\rgb盔甲架代码生成器.exe
+E:\c#\rgb盔甲架代码生成器\rgb盔甲架代码生成器\bin\Debug\rgb盔甲架代码生成器.pdb
+E:\c#\rgb盔甲架代码生成器\rgb盔甲架代码生成器\obj\x86\Debug\rgb盔甲架代码生成器.Form1.resources
+E:\c#\rgb盔甲架代码生成器\rgb盔甲架代码生成器\obj\x86\Debug\rgb盔甲架代码生成器.Properties.Resources.resources
+E:\c#\rgb盔甲架代码生成器\rgb盔甲架代码生成器\obj\x86\Debug\rgb盔甲架代码生成器.csproj.GenerateResource.Cache
+E:\c#\rgb盔甲架代码生成器\rgb盔甲架代码生成器\obj\x86\Debug\rgb盔甲架代码生成器.exe
+E:\c#\rgb盔甲架代码生成器\rgb盔甲架代码生成器\obj\x86\Debug\rgb盔甲架代码生成器.pdb
+E:\c#\rgb盔甲架代码生成器\rgb盔甲架代码生成器\obj\x86\Debug\rgb盔甲架代码生成器.csprojResolveAssemblyReference.cache
