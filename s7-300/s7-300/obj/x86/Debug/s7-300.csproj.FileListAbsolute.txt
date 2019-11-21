@@ -1,0 +1,13 @@
+E:\c#\s7-300\s7-300\obj\x86\Debug\s7_300.Form1.resources
+E:\c#\s7-300\s7-300\obj\x86\Debug\s7_300.Properties.Resources.resources
+E:\c#\s7-300\s7-300\obj\x86\Debug\s7-300.csproj.GenerateResource.Cache
+E:\c#\s7-300\s7-300\bin\Debug\s7-300.exe.config
+E:\c#\s7-300\s7-300\bin\Debug\s7-300.exe
+E:\c#\s7-300\s7-300\bin\Debug\s7-300.pdb
+E:\c#\s7-300\s7-300\bin\Debug\S7.Net.dll
+E:\c#\s7-300\s7-300\bin\Debug\S7.Net.pdb
+E:\c#\s7-300\s7-300\obj\x86\Debug\s7-300.csprojAssemblyReference.cache
+E:\c#\s7-300\s7-300\obj\x86\Debug\s7-300.csproj.CoreCompileInputs.cache
+E:\c#\s7-300\s7-300\obj\x86\Debug\s7-300.csproj.CopyComplete
+E:\c#\s7-300\s7-300\obj\x86\Debug\s7-300.exe
+E:\c#\s7-300\s7-300\obj\x86\Debug\s7-300.pdb
